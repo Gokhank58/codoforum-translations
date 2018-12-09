@@ -1,4 +1,24 @@
 <?php 
+/**
+ * 
+ * Editor: Gökhan Korul | gokhank58@gmail.com | gokhankrll.blogspot.com
+ * 
+ * Codoforum'da çeviri çok basit 
+ * Bu dosyayı kopyala yapıştır
+ * locale/senin_dilin/senin_dilin.php
+ * 
+ * Örneğin. locale/tr_TR/tr_TR.php ya da locale/turkish/turkish.php
+ * 
+ * Ardından , solda yazanı => sağdakine çevirin => kaydedin.
+ *
+ * 
+ * Örneğin:
+ * 
+ * 'My profile' => 'Profilim',
+ * 
+ * Ardından dil paketini yönetici panelinden seçebilirsiniz
+ *
+ */
  $CODOT = array (
   '' => '',
   ' ?' => ' ?',
